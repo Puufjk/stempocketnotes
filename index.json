@@ -1,5 +1,0 @@
-[
-  {"id":"calculus-limit","title":"極限的基本觀念","category":"微積分","summary":"從函數趨近一個數值的過程，理解極限的直覺與常見解法。","tags":["極限","函數","微積分"],"updated":"2026-11-09","file":"notes/calculus-limit.md"},
-  {"id":"cpp-loop","title":"C++ 迴圈快速入門","category":"程式設計","summary":"一次掌握 for 與 while 的差別，並學會避開無窮迴圈。","tags":["C++","for","while"],"updated":"2026-11-09","file":"notes/cpp-loop.md"},
-  {"id":"chemistry-equilibrium","title":"化學平衡與勒沙特列原理","category":"化學","summary":"理解動態平衡，以及系統面對濃度、壓力與溫度改變時的反應。","tags":["化學平衡","平衡常數","反應"],"updated":"2026-11-09","file":"notes/chemistry-equilibrium.md"}
-]
